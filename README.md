@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Elizabeth-41
 - 👀 I’m interested in GAME
-- 🌱 I’m currently learning JAVA, C++, HTML
+- 🌱 I’m currently learning JAVA, C++, HTML, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ATTACK HELICOPTER
